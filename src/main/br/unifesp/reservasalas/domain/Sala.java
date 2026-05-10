@@ -26,3 +26,4 @@ public abstract class Sala {
     public abstract String getDescricao();
     public abstract TipoSala getTipo();
 }
+
