@@ -16,4 +16,3 @@ public class SalaEstudoIndividual extends Sala {
     @Override
     public TipoSala getTipo() { return TipoSala.INDIVIDUAL; }
 }
-
